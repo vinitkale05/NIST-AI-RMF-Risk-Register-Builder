@@ -1,0 +1,9 @@
+streamlit>=1.50
+sentence-transformers>=3.0
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+requests
+reportlab

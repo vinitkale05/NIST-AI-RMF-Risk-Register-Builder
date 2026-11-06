@@ -1,0 +1,4 @@
+{
+ "S1_bank_support_chatbot": "A customer-support chatbot for a retail bank in India. It uses an LLM with retrieval over the bank's policy documents and answers questions about accounts, loans and card issues on the website and WhatsApp. Customers may type personal details such as account numbers and phone numbers. Human agents take over only when the user asks.",
+ "S2_crop_disease_app": "A mobile app for farmers in Maharashtra that detects crop diseases from smartphone photos using an image classifier and then recommends pesticides in Marathi and Hindi through an LLM. Training images were collected from a few districts, the app works with weak internet, and farmers may act directly on the advice."
+}
