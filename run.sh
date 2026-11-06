@@ -8,3 +8,4 @@ fi
 
 echo "🛡️ Starting NIST AI RMF Risk Register Builder on Streamlit..."
 streamlit run app.py
+
